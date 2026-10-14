@@ -16,7 +16,7 @@ Applications can specialize in auctions, financial markets, games, or other acti
 
 **One architecture. Multiple domains. Human and machine participation.**
 
-![TradeSphere Application Stack](assets/academy-architecture.png)
+![TradeSphere Application Stack](../assets/academy-architecture.png)
 
 *TradeSphere applications, core services, domain extensions, and supporting infrastructure.*
 
